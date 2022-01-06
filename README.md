@@ -7,8 +7,8 @@ For **eMag.ro**, I created test cases to check the following:
 - the search box is working properly
 - it contains a cart button
 - the logo appears on the homepage
-- open 'Resigilate'
-- open 'eMAG Help'
+- open 'Resigilate' page
+- open 'eMAG Help' page
 
 For **libris.ro** I tested the following:
 - login with correct credentials
